@@ -24,7 +24,7 @@
   This MCC is not associated with Manacube or Minecraft/Mojang. This is just a configuration of the already existing Minecraft Console Client - to make it easier for people to load it with Manacube pre-configurations
     
   ## Download
-  To download this console client please download the latest version on the [releases](https://github.com/ThicLatinaMC/Manacube-Console-Client/releases/tag/MCC) page - __(Manacube.-.Console.Client.zip)__
+  To download this console client please download the latest version on the [releases](https://github.com/ThicLatinaMC/Manacube-Console-Client/releases/) page - __(Manacube.-.Console.Client.zip)__
     
   ## Discord
   We have a small discord community, click [here](https://discord.gg/dGs6EH6MX7) to join
