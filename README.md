@@ -19,18 +19,19 @@
       <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ThicLatinaMC/Manacube-Console-Client">
       <a href="https://choosealicense.com/licenses/mit/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/License-MIT-orange.svg" alt="MIT License"/></a>
   </div>
+<div align="left">
 
-  ## Disclaimer
+## Disclaimer
   This MCC is not associated with Manacube or Minecraft/Mojang. This is just a configuration of the already existing Minecraft Console Client - to make it easier for people to load it with Manacube pre-configurations
     
-  ## Download
+## Download
   To download this console client please download the latest version on the [releases](https://github.com/ThicLatinaMC/Manacube-Console-Client/releases/) page - __(Manacube.-.Console.Client.zip)__
     
-  ## Discord
+## Discord
   We have a small discord community, click [here](https://discord.gg/dGs6EH6MX7) to join
       
-  ## Installation
-  Watch the youtube video where I show how to install [here](https://prnt.sc/Dvj2-Dq29CW-)
+## Installation
+  Watch the youtube video where I show how to install [here](https://www.youtube.com/watch?v=VdjjtSFH1TQ)
   Or follow the instructions below 🤍
   - [x] Read this page
   - [x] Download the __Manacube.-.Console.Client.zip__ zipped folder
@@ -41,5 +42,11 @@
   - [x] Follow instructions in the README text file to setup properly (will take around 5 minutes)
   - [ ] Maybe check out my socials? <a href="https://ThicLatinaMC.com" target="_blank"><img src="https://img.shields.io/badge/Website-ThicLatinaMC.com-9cf" alt="Website"/></a>
       
-  ## Troubleshooting
-  If you are having any problems with the console client or would like help, you can ask for help on our [discord](https://discord.gg/Tq3SDuc2WT) server in the <ins>*mcc-help*</ins> channel. I will also soon be uploading an installation video as a help tutorial
+## Troubleshooting
+  If you are having any problems with the console client or would like help, you can ask for help on our [discord](https://discord.gg/Tq3SDuc2WT) server in the <ins>*mcc-help*</ins> channel. I have also created an installation tutorial on Youtube which you can watch [here](https://www.youtube.com/watch?v=VdjjtSFH1TQ)
+  
+## License
+The license of use for this code is covered under CDDL-1.0. License terms can be found [here](http://opensource.org/licenses/CDDL-1.0)
+
+#### Recognition
+- MCC - [MCCTeam](https://github.com/MCCTeam/Minecraft-Console-Client)
